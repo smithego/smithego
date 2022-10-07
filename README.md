@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @smithego a fullstack webdeveloper with 2years of experience in html,css js boostrap,php and mysql database
+- 👋 Hi, I’m ikolonwa a fullstack webdeveloper with 2years of experience in html,css js boostrap,php and mysql database
 - 👀 I’m interested in collaborating with best developers across the world
 - 🌱 I’m currently adding my existing knowledge on javascript and php
 - 💞️ I’m looking to collaborate on ...
